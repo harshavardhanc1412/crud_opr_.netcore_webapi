@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Crud_Operations_using_.NetCore_WebAPI.props" />
+</Project>

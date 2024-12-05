@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\apibrands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\apibrands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\controllers\\brandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\apibrands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\apibrands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\apibrands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\apibrands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\apibrands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\apibrands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\models\\brandcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\migrations\\20240611072019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\migrations\\20240611072019_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\migrations\\brandcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\migrations\\brandcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|c:\\users\\sh\\source\\repos\\crud_operations_using_.netcore_webapi\\crud_operations_using_.netcore_webapi\\views\\apibrands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4148232-4B91-4BA6-B41B-F47A7D970D8D}|Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj|solutionrelative:crud_operations_using_.netcore_webapi\\views\\apibrands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwHMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T11:07:28.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T10:54:22.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:42:27.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240611072019_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Migrations\\20240611072019_Initial.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Migrations\\20240611072019_Initial.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Migrations\\20240611072019_Initial.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Migrations\\20240611072019_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:42:20.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BrandContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Migrations\\BrandContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Migrations\\BrandContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Migrations\\BrandContextModelSnapshot.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Migrations\\BrandContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:42:09.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Create.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:30:38.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Delete.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:41:56.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Details.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Details.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:41:53.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Edit.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T10:41:47.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\WeatherForecast.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T10:29:13.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-17T10:29:01.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Crud_Operations_using_.NetCore_WebAPI.http",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.http",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.http",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.http",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-17T10:28:40.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T09:49:38.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Index.cshtml",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Views\\ApiBrands\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T09:49:13.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Program.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:35:13.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Models\\Brand.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Models\\Brand.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:40:47.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandController.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wBkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T11:22:16.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BrandContext.cs",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Models\\BrandContext.cs",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Models\\BrandContext.cs",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Models\\BrandContext.cs",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Models\\BrandContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:49:10.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\appsettings.json",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T06:52:59.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Crud_Operations_using_.NetCore_WebAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj",
+              "RelativeDocumentMoniker": "Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj",
+              "ToolTip": "C:\\Users\\sh\\source\\repos\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj",
+              "RelativeToolTip": "Crud_Operations_using_.NetCore_WebAPI\\Crud_Operations_using_.NetCore_WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T06:39:52.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
